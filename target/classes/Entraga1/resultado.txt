@@ -1,0 +1,2 @@
+argentina,1,2,arabia
+polonia,0,0,mexico
